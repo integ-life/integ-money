@@ -2,9 +2,9 @@
   "schema": "integ.life/build-version/v1",
   "repository": "integ-life/life-on-golang",
   "service": "money.integ.life",
-  "version": "git-6b7fd02bfaba-dirty",
-  "semver": "1.22.76",
-  "commit": "6b7fd02bfaba9a792ee0db2892c48c133963f66a",
-  "builtAt": "2026-08-19T23:46:11.334Z",
+  "version": "git-49452a8e7494-dirty",
+  "semver": "1.22.77",
+  "commit": "49452a8e7494723e9993ac0042f4e71ad66d8ddb",
+  "builtAt": "2026-08-19T23:49:26.961Z",
   "dirty": true
 }
